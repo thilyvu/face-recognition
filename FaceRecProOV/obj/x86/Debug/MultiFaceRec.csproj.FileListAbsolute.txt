@@ -1,0 +1,13 @@
+E:\FaceRecProOV\bin\Debug\MultiFaceRec.exe
+E:\FaceRecProOV\bin\Debug\MultiFaceRec.pdb
+E:\FaceRecProOV\bin\Debug\Emgu.CV.xml
+E:\FaceRecProOV\bin\Debug\Emgu.CV.UI.xml
+E:\FaceRecProOV\bin\Debug\Emgu.Util.xml
+E:\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+E:\FaceRecProOV\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\FaceRecProOV\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+E:\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+E:\FaceRecProOV\obj\x86\Debug\MultiFaceRec.exe
+E:\FaceRecProOV\obj\x86\Debug\MultiFaceRec.pdb
+E:\FaceRecProOV\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
